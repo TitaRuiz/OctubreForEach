@@ -5,6 +5,7 @@ public class Ejercicio1 {
         // El programa debe de ir comprobando, con un bucle,
         // para determinar si cada carácter del array es o no una vocal.
         char[] letras = {'a','b','d','e','g'};
+
         for (int i=0; i<letras.length; i++){
             switch (letras[i]){
                 case 'a':
